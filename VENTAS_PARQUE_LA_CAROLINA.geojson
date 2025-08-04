@@ -488,7 +488,7 @@
         "GIRO_NEGOC": "Juguetes y variedades, tableros y caritas pintadas",
         "PERMISO": "SI",
         "OBS": "No presencia del titular del permiso en el puesto.",
-        "FALTA": "Incumplimiento leve",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-02",
         "LATITUD": -0.179196,
         "LONGITUD": -78.483551
@@ -508,7 +508,7 @@
         "GIRO_NEGOC": "Tiro al blanco",
         "PERMISO": "SI",
         "OBS": "No presencia del titular del permiso en el puesto.",
-        "FALTA": "Incumplimiento leve",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-02",
         "LATITUD": -0.179163,
         "LONGITUD": -78.48405
@@ -867,8 +867,8 @@
         "ID": 44,
         "GIRO_NEGOC": "Salchipapas y gaseosas",
         "PERMISO": "SI",
-        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.185378,
         "LONGITUD": -78.484668
@@ -1087,8 +1087,8 @@
         "ID": 55,
         "GIRO_NEGOC": "Helados y postres",
         "PERMISO": "SI",
-        "OBS": "No presencia del titular del permiso en el puesto.\nIncumplimiento de metraje aprobado en el permiso.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "No presencia del titular del permiso en el puesto. Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.186593,
         "LONGITUD": -78.48494
@@ -1127,8 +1127,8 @@
         "ID": 57,
         "GIRO_NEGOC": "Hot dog y gaseosas",
         "PERMISO": "SI",
-        "OBS": "No presencia del titular del permiso en el puesto.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "No presencia del titular del permiso en el puesto. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.187038,
         "LONGITUD": -78.484469
@@ -1208,7 +1208,7 @@
         "GIRO_NEGOC": "Granizado con fruta y algodón de azúcar",
         "PERMISO": "SI",
         "OBS": "No presencia del titular del permiso en el puesto.\n",
-        "FALTA": "Incumplimiento leve",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.187151,
         "LONGITUD": -78.484413
@@ -1227,8 +1227,8 @@
         "ID": 62,
         "GIRO_NEGOC": "Cevichochos con fritada y gaseosas",
         "PERMISO": "SI",
-        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.187147,
         "LONGITUD": -78.484391
@@ -1347,8 +1347,8 @@
         "ID": 68,
         "GIRO_NEGOC": "Hot dog, hamburguesas y gaseosas",
         "PERMISO": "SI",
-        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.18768,
         "LONGITUD": -78.483899
@@ -1447,8 +1447,8 @@
         "ID": 73,
         "GIRO_NEGOC": "Alimentos preparados y gaseosas",
         "PERMISO": "SI",
-        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "FALTA": "Incumplimiento leve",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
         "FECHA_LEV": "2025-08-03",
         "LATITUD": -0.180761,
         "LONGITUD": -78.483706
