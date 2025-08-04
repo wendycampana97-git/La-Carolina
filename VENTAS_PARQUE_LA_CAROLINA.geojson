@@ -4,15 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y variedades",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754147837770.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.17808,
-        "Long": -78.483288,
-        "ID": 1
+        "ID": 1,
+        "GIRO_NEGOC": "Juguetes y variedades",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.17808,
+        "LONGITUD": -78.483288
       },
       "geometry": {
         "type": "Point",
@@ -25,15 +24,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Huevitos chilenos y salchipapas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754147937589.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178207,
-        "Long": -78.483317,
-        "ID": 2
+        "ID": 2,
+        "GIRO_NEGOC": "Huevitos chilenos y salchipapas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178207,
+        "LONGITUD": -78.483317
       },
       "geometry": {
         "type": "Point",
@@ -46,15 +44,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Inflable",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754147998982.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178307,
-        "Long": -78.483322,
-        "ID": 3
+        "ID": 3,
+        "GIRO_NEGOC": "Inflable",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178307,
+        "LONGITUD": -78.483322
       },
       "geometry": {
         "type": "Point",
@@ -67,15 +64,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Venta de jugos naturales",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754148217479.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178404,
-        "Long": -78.483357,
-        "ID": 4
+        "ID": 4,
+        "GIRO_NEGOC": "Venta de jugos naturales",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178404,
+        "LONGITUD": -78.483357
       },
       "geometry": {
         "type": "Point",
@@ -88,15 +84,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y variedades",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754148295403.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178521,
-        "Long": -78.483676,
-        "ID": 5
+        "ID": 5,
+        "GIRO_NEGOC": "Juguetes y variedades",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178521,
+        "LONGITUD": -78.483676
       },
       "geometry": {
         "type": "Point",
@@ -109,15 +104,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Granizados y frutas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754149051101.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178717,
-        "Long": -78.483388,
-        "ID": 6
+        "ID": 6,
+        "GIRO_NEGOC": "Granizados y frutas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178717,
+        "LONGITUD": -78.483388
       },
       "geometry": {
         "type": "Point",
@@ -130,15 +124,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutas y jugos",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754149333404.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178815,
-        "Long": -78.484026,
-        "ID": 7
+        "ID": 7,
+        "GIRO_NEGOC": "Frutas y jugos",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178815,
+        "LONGITUD": -78.484026
       },
       "geometry": {
         "type": "Point",
@@ -151,15 +144,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juegos mecánicos",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754149389005.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178907,
-        "Long": -78.484067,
-        "ID": 8
+        "ID": 8,
+        "GIRO_NEGOC": "Juegos mecánicos",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178907,
+        "LONGITUD": -78.484067
       },
       "geometry": {
         "type": "Point",
@@ -172,15 +164,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juegos mecánicos",
-        "Permiso": "SI",
-        "Observacio": "No portar el permiso durante el horario de labores.",
-        "Foto": "1754150054534.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178888,
-        "Long": -78.484212,
-        "ID": 9
+        "ID": 9,
+        "GIRO_NEGOC": "Juegos mecánicos",
+        "PERMISO": "SI",
+        "OBS": "No portar el permiso durante el horario de labores.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178888,
+        "LONGITUD": -78.484212
       },
       "geometry": {
         "type": "Point",
@@ -193,15 +184,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juegos mecánicos",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754150267639.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178932,
-        "Long": -78.484148,
-        "ID": 10
+        "ID": 10,
+        "GIRO_NEGOC": "Juegos mecánicos",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178932,
+        "LONGITUD": -78.484148
       },
       "geometry": {
         "type": "Point",
@@ -214,15 +204,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Inflable",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754150968978.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.1786,
-        "Long": -78.483912,
-        "ID": 11
+        "ID": 11,
+        "GIRO_NEGOC": "Inflable",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.1786,
+        "LONGITUD": -78.483912
       },
       "geometry": {
         "type": "Point",
@@ -235,15 +224,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutas y jugos",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754151302971.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178461,
-        "Long": -78.483368,
-        "ID": 12
+        "ID": 12,
+        "GIRO_NEGOC": "Frutas y jugos",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178461,
+        "LONGITUD": -78.483368
       },
       "geometry": {
         "type": "Point",
@@ -256,15 +244,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Pinchos",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754151648289.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.17853,
-        "Long": -78.483351,
-        "ID": 13
+        "ID": 13,
+        "GIRO_NEGOC": "Pinchos",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.17853,
+        "LONGITUD": -78.483351
       },
       "geometry": {
         "type": "Point",
@@ -277,15 +264,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754151897661.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178563,
-        "Long": -78.482238,
-        "ID": 14
+        "ID": 14,
+        "GIRO_NEGOC": "Cevichochos con fritada",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178563,
+        "LONGITUD": -78.482238
       },
       "geometry": {
         "type": "Point",
@@ -298,15 +284,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Inflable",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754152017368.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178232,
-        "Long": -78.48216,
-        "ID": 15
+        "ID": 15,
+        "GIRO_NEGOC": "Inflable",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178232,
+        "LONGITUD": -78.48216
       },
       "geometry": {
         "type": "Point",
@@ -319,15 +304,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juegos mecánicos",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754149519989.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.178956,
-        "Long": -78.484221,
-        "ID": 16
+        "ID": 16,
+        "GIRO_NEGOC": "Juegos mecánicos",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178956,
+        "LONGITUD": -78.484221
       },
       "geometry": {
         "type": "Point",
@@ -340,15 +324,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juegos mecánicos",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754149788689.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.178873,
-        "Long": -78.484113,
-        "ID": 17
+        "ID": 17,
+        "GIRO_NEGOC": "Juegos mecánicos",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.178873,
+        "LONGITUD": -78.484113
       },
       "geometry": {
         "type": "Point",
@@ -361,15 +344,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutas, jugos y bebidas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754152581055.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.17776,
-        "Long": -78.481921,
-        "ID": 18
+        "ID": 18,
+        "GIRO_NEGOC": "Frutas, jugos y bebidas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.17776,
+        "LONGITUD": -78.481921
       },
       "geometry": {
         "type": "Point",
@@ -382,15 +364,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Alimentos preparados y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754152716663.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.177736,
-        "Long": -78.481884,
-        "ID": 19
+        "ID": 19,
+        "GIRO_NEGOC": "Alimentos preparados y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.177736,
+        "LONGITUD": -78.481884
       },
       "geometry": {
         "type": "Point",
@@ -403,15 +384,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Alimentos preparados y gaseosas (Encebollado y guatita)",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754153050667.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179325,
-        "Long": -78.482442,
-        "ID": 20
+        "ID": 20,
+        "GIRO_NEGOC": "Alimentos preparados y gaseosas (Encebollado y guatita)",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179325,
+        "LONGITUD": -78.482442
       },
       "geometry": {
         "type": "Point",
@@ -424,15 +404,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Mote con fritada y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754153589709.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179647,
-        "Long": -78.483528,
-        "ID": 21
+        "ID": 21,
+        "GIRO_NEGOC": "Mote con fritada y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179647,
+        "LONGITUD": -78.483528
       },
       "geometry": {
         "type": "Point",
@@ -445,15 +424,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Mangos, jugos y helados",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754153709421.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.17959,
-        "Long": -78.483555,
-        "ID": 22
+        "ID": 22,
+        "GIRO_NEGOC": "Mangos, jugos y helados",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.17959,
+        "LONGITUD": -78.483555
       },
       "geometry": {
         "type": "Point",
@@ -466,15 +444,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Dibujos para colorear y juguetes",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754153816476.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179431,
-        "Long": -78.483636,
-        "ID": 23
+        "ID": 23,
+        "GIRO_NEGOC": "Dibujos para colorear y juguetes",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179431,
+        "LONGITUD": -78.483636
       },
       "geometry": {
         "type": "Point",
@@ -487,15 +464,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Confites y bebidas generales",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754153883840.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179411,
-        "Long": -78.48361,
-        "ID": 24
+        "ID": 24,
+        "GIRO_NEGOC": "Confites y bebidas generales",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179411,
+        "LONGITUD": -78.48361
       },
       "geometry": {
         "type": "Point",
@@ -508,15 +484,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y variedades, tableros y caritas pintadas",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto.",
-        "Foto": "1754153970749.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179196,
-        "Long": -78.483551,
-        "ID": 25
+        "ID": 25,
+        "GIRO_NEGOC": "Juguetes y variedades, tableros y caritas pintadas",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179196,
+        "LONGITUD": -78.483551
       },
       "geometry": {
         "type": "Point",
@@ -529,15 +504,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Tiro al blanco",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto.",
-        "Foto": "1754154303099.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179163,
-        "Long": -78.48405,
-        "ID": 26
+        "ID": 26,
+        "GIRO_NEGOC": "Tiro al blanco",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179163,
+        "LONGITUD": -78.48405
       },
       "geometry": {
         "type": "Point",
@@ -550,15 +524,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Saltarín inflable",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754154558430.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179168,
-        "Long": -78.484096,
-        "ID": 27
+        "ID": 27,
+        "GIRO_NEGOC": "Saltarín inflable",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179168,
+        "LONGITUD": -78.484096
       },
       "geometry": {
         "type": "Point",
@@ -571,15 +544,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Algodón de azúcar, granizado y helados",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754154907431.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179251,
-        "Long": -78.484089,
-        "ID": 28
+        "ID": 28,
+        "GIRO_NEGOC": "Algodón de azúcar, granizado y helados",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179251,
+        "LONGITUD": -78.484089
       },
       "geometry": {
         "type": "Point",
@@ -592,15 +564,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Huevitos chilenos y hot dog",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754155010622.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179274,
-        "Long": -78.484099,
-        "ID": 29
+        "ID": 29,
+        "GIRO_NEGOC": "Huevitos chilenos y hot dog",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179274,
+        "LONGITUD": -78.484099
       },
       "geometry": {
         "type": "Point",
@@ -613,15 +584,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754155088552.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.17932,
-        "Long": -78.48409,
-        "ID": 30
+        "ID": 30,
+        "GIRO_NEGOC": "Cevichochos con fritada y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.17932,
+        "LONGITUD": -78.48409
       },
       "geometry": {
         "type": "Point",
@@ -634,15 +604,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugos, gaseosa y confites",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754155223785.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179507,
-        "Long": -78.484198,
-        "ID": 31
+        "ID": 31,
+        "GIRO_NEGOC": "Jugos, gaseosa y confites",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179507,
+        "LONGITUD": -78.484198
       },
       "geometry": {
         "type": "Point",
@@ -655,15 +624,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Caritas pintadas y dibujos para colorear",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754155369842.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179444,
-        "Long": -78.483963,
-        "ID": 32
+        "ID": 32,
+        "GIRO_NEGOC": "Caritas pintadas y dibujos para colorear",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179444,
+        "LONGITUD": -78.483963
       },
       "geometry": {
         "type": "Point",
@@ -676,15 +644,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugos, frutas y bebidas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento con los horarios o días permitidos para laborar. Cambio de puesto.",
-        "Foto": "1754155701676.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179539,
-        "Long": -78.484204,
-        "ID": 33
+        "ID": 33,
+        "GIRO_NEGOC": "Jugos, frutas y bebidas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento con los horarios o días permitidos para laborar. Cambio de puesto.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179539,
+        "LONGITUD": -78.484204
       },
       "geometry": {
         "type": "Point",
@@ -697,15 +664,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugos, frutas y bebidas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754155900535.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.179562,
-        "Long": -78.484201,
-        "ID": 34
+        "ID": 34,
+        "GIRO_NEGOC": "Jugos, frutas y bebidas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179562,
+        "LONGITUD": -78.484201
       },
       "geometry": {
         "type": "Point",
@@ -718,15 +684,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Alquiler de carritos",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754156083406.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.18001,
-        "Long": -78.484173,
-        "ID": 35
+        "ID": 35,
+        "GIRO_NEGOC": "Alquiler de carritos",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.18001,
+        "LONGITUD": -78.484173
       },
       "geometry": {
         "type": "Point",
@@ -739,15 +704,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Burbujas y pelotas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754156238404.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.180158,
-        "Long": -78.484146,
-        "ID": 36
+        "ID": 36,
+        "GIRO_NEGOC": "Burbujas y pelotas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.180158,
+        "LONGITUD": -78.484146
       },
       "geometry": {
         "type": "Point",
@@ -760,15 +724,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugos, frutas y aguas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754156392644.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.180121,
-        "Long": -78.483674,
-        "ID": 37
+        "ID": 37,
+        "GIRO_NEGOC": "Jugos, frutas y aguas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.180121,
+        "LONGITUD": -78.483674
       },
       "geometry": {
         "type": "Point",
@@ -781,15 +744,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754156747295.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": null,
-        "Lat": -0.179989,
-        "Long": -78.483624,
-        "ID": 38
+        "ID": 38,
+        "GIRO_NEGOC": "Cevichochos con fritada y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.179989,
+        "LONGITUD": -78.483624
       },
       "geometry": {
         "type": "Point",
@@ -802,15 +764,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Salchipapas completas y negocio",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754156818118.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.180205,
-        "Long": -78.483631,
-        "ID": 39
+        "ID": 39,
+        "GIRO_NEGOC": "Salchipapas completas y negocio",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.180205,
+        "LONGITUD": -78.483631
       },
       "geometry": {
         "type": "Point",
@@ -823,15 +784,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Granizados",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754156933471.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.180285,
-        "Long": -78.483683,
-        "ID": 40
+        "ID": 40,
+        "GIRO_NEGOC": "Granizados",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.180285,
+        "LONGITUD": -78.483683
       },
       "geometry": {
         "type": "Point",
@@ -844,15 +804,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog y huevos chilenos",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754157029573.jpg",
-        "Fecha": "2025-08-02",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.180389,
-        "Long": -78.483676,
-        "ID": 41
+        "ID": 41,
+        "GIRO_NEGOC": "Hot dog y huevos chilenos",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-02",
+        "LATITUD": -0.180389,
+        "LONGITUD": -78.483676
       },
       "geometry": {
         "type": "Point",
@@ -865,15 +824,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754252371100.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185296,
-        "Long": -78.484657,
-        "ID": 42
+        "ID": 42,
+        "GIRO_NEGOC": "Cevichochos con fritada",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185296,
+        "LONGITUD": -78.484657
       },
       "geometry": {
         "type": "Point",
@@ -886,15 +844,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Salchipapas, papi pollo y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754252565137.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.185365,
-        "Long": -78.484658,
-        "ID": 43
+        "ID": 43,
+        "GIRO_NEGOC": "Salchipapas, papi pollo y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185365,
+        "LONGITUD": -78.484658
       },
       "geometry": {
         "type": "Point",
@@ -907,15 +864,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Salchipapas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754252925259.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.185378,
-        "Long": -78.484668,
-        "ID": 44
+        "ID": 44,
+        "GIRO_NEGOC": "Salchipapas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185378,
+        "LONGITUD": -78.484668
       },
       "geometry": {
         "type": "Point",
@@ -928,15 +884,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Helados y postres",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754253437382.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185666,
-        "Long": -78.484788,
-        "ID": 45
+        "ID": 45,
+        "GIRO_NEGOC": "Helados y postres",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185666,
+        "LONGITUD": -78.484788
       },
       "geometry": {
         "type": "Point",
@@ -949,15 +904,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Algodón de azúcar",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754253609623.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185673,
-        "Long": -78.48478,
-        "ID": 46
+        "ID": 46,
+        "GIRO_NEGOC": "Algodón de azúcar",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185673,
+        "LONGITUD": -78.48478
       },
       "geometry": {
         "type": "Point",
@@ -970,15 +924,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutas, jugos y espumilla",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754253742734.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185693,
-        "Long": -78.484779,
-        "ID": 47
+        "ID": 47,
+        "GIRO_NEGOC": "Frutas, jugos y espumilla",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185693,
+        "LONGITUD": -78.484779
       },
       "geometry": {
         "type": "Point",
@@ -991,15 +944,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Fritadas, choclos y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754253789732.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185774,
-        "Long": -78.484773,
-        "ID": 48
+        "ID": 48,
+        "GIRO_NEGOC": "Fritadas, choclos y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185774,
+        "LONGITUD": -78.484773
       },
       "geometry": {
         "type": "Point",
@@ -1012,15 +964,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Fantasías y artesanías",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754254020342.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.186197,
-        "Long": -78.484848,
-        "ID": 49
+        "ID": 49,
+        "GIRO_NEGOC": "Fantasías y artesanías",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186197,
+        "LONGITUD": -78.484848
       },
       "geometry": {
         "type": "Point",
@@ -1033,15 +984,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Artesanías y juguetes",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754254323750.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.186314,
-        "Long": -78.484865,
-        "ID": 50
+        "ID": 50,
+        "GIRO_NEGOC": "Artesanías y juguetes",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186314,
+        "LONGITUD": -78.484865
       },
       "geometry": {
         "type": "Point",
@@ -1054,15 +1004,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Babuchas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754254638213.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.186412,
-        "Long": -78.484891,
-        "ID": 51
+        "ID": 51,
+        "GIRO_NEGOC": "Babuchas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186412,
+        "LONGITUD": -78.484891
       },
       "geometry": {
         "type": "Point",
@@ -1075,15 +1024,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y variedades",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754254694183.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.186457,
-        "Long": -78.484892,
-        "ID": 52
+        "ID": 52,
+        "GIRO_NEGOC": "Juguetes y variedades",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186457,
+        "LONGITUD": -78.484892
       },
       "geometry": {
         "type": "Point",
@@ -1096,15 +1044,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Salchipapas, hamburguesas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754255035184.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.186521,
-        "Long": -78.484915,
-        "ID": 53
+        "ID": 53,
+        "GIRO_NEGOC": "Salchipapas, hamburguesas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186521,
+        "LONGITUD": -78.484915
       },
       "geometry": {
         "type": "Point",
@@ -1117,15 +1064,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Papas con cuero",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754255193141.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.186558,
-        "Long": -78.484923,
-        "ID": 54
+        "ID": 54,
+        "GIRO_NEGOC": "Papas con cuero",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186558,
+        "LONGITUD": -78.484923
       },
       "geometry": {
         "type": "Point",
@@ -1138,15 +1084,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Helados y postres",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto.\nIncumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754255288792.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.186593,
-        "Long": -78.48494,
-        "ID": 55
+        "ID": 55,
+        "GIRO_NEGOC": "Helados y postres",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto.\nIncumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.186593,
+        "LONGITUD": -78.48494
       },
       "geometry": {
         "type": "Point",
@@ -1159,15 +1104,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754255624415.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.187034,
-        "Long": -78.484471,
-        "ID": 56
+        "ID": 56,
+        "GIRO_NEGOC": "Cevichochos con fritada y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187034,
+        "LONGITUD": -78.484471
       },
       "geometry": {
         "type": "Point",
@@ -1180,15 +1124,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754255936049.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187038,
-        "Long": -78.484469,
-        "ID": 57
+        "ID": 57,
+        "GIRO_NEGOC": "Hot dog y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187038,
+        "LONGITUD": -78.484469
       },
       "geometry": {
         "type": "Point",
@@ -1201,15 +1144,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Pinchos y asados",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754256084938.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.187059,
-        "Long": -78.484463,
-        "ID": 58
+        "ID": 58,
+        "GIRO_NEGOC": "Pinchos y asados",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187059,
+        "LONGITUD": -78.484463
       },
       "geometry": {
         "type": "Point",
@@ -1222,15 +1164,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Papas con cuero y fritada",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754256355136.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.187086,
-        "Long": -78.484461,
-        "ID": 59
+        "ID": 59,
+        "GIRO_NEGOC": "Papas con cuero y fritada",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187086,
+        "LONGITUD": -78.484461
       },
       "geometry": {
         "type": "Point",
@@ -1243,15 +1184,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog, hamburguesas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754256516866.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.187117,
-        "Long": -78.48443,
-        "ID": 60
+        "ID": 60,
+        "GIRO_NEGOC": "Hot dog, hamburguesas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187117,
+        "LONGITUD": -78.48443
       },
       "geometry": {
         "type": "Point",
@@ -1264,15 +1204,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Granizado con fruta y algodón de azúcar",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto.\n",
-        "Foto": "1754256899113.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187151,
-        "Long": -78.484413,
-        "ID": 61
+        "ID": 61,
+        "GIRO_NEGOC": "Granizado con fruta y algodón de azúcar",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto.\n",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187151,
+        "LONGITUD": -78.484413
       },
       "geometry": {
         "type": "Point",
@@ -1285,15 +1224,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Cevichochos con fritada y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754257257756.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187147,
-        "Long": -78.484391,
-        "ID": 62
+        "ID": 62,
+        "GIRO_NEGOC": "Cevichochos con fritada y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187147,
+        "LONGITUD": -78.484391
       },
       "geometry": {
         "type": "Point",
@@ -1306,15 +1244,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y confites",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754257432444.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187183,
-        "Long": -78.484397,
-        "ID": 63
+        "ID": 63,
+        "GIRO_NEGOC": "Juguetes y confites",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187183,
+        "LONGITUD": -78.484397
       },
       "geometry": {
         "type": "Point",
@@ -1327,15 +1264,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y variedades",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754257692040.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187282,
-        "Long": -78.484354,
-        "ID": 64
+        "ID": 64,
+        "GIRO_NEGOC": "Juguetes y variedades",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187282,
+        "LONGITUD": -78.484354
       },
       "geometry": {
         "type": "Point",
@@ -1348,15 +1284,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes y gorras",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754258024528.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187268,
-        "Long": -78.484315,
-        "ID": 65
+        "ID": 65,
+        "GIRO_NEGOC": "Juguetes y gorras",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187268,
+        "LONGITUD": -78.484315
       },
       "geometry": {
         "type": "Point",
@@ -1369,15 +1304,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugo de coco",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754258324866.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.187364,
-        "Long": -78.484282,
-        "ID": 66
+        "ID": 66,
+        "GIRO_NEGOC": "Jugo de coco",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187364,
+        "LONGITUD": -78.484282
       },
       "geometry": {
         "type": "Point",
@@ -1390,15 +1324,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Granizados con frutas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754258716520.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.187452,
-        "Long": -78.484198,
-        "ID": 67
+        "ID": 67,
+        "GIRO_NEGOC": "Granizados con frutas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187452,
+        "LONGITUD": -78.484198
       },
       "geometry": {
         "type": "Point",
@@ -1411,15 +1344,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog, hamburguesas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754258885310.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.18768,
-        "Long": -78.483899,
-        "ID": 68
+        "ID": 68,
+        "GIRO_NEGOC": "Hot dog, hamburguesas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.18768,
+        "LONGITUD": -78.483899
       },
       "geometry": {
         "type": "Point",
@@ -1432,15 +1364,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Espumilla con frutas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754259185740.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187643,
-        "Long": -78.48387,
-        "ID": 69
+        "ID": 69,
+        "GIRO_NEGOC": "Espumilla con frutas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187643,
+        "LONGITUD": -78.48387
       },
       "geometry": {
         "type": "Point",
@@ -1453,15 +1384,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Salchipapas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754259479320.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.187627,
-        "Long": -78.483878,
-        "ID": 70
+        "ID": 70,
+        "GIRO_NEGOC": "Salchipapas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.187627,
+        "LONGITUD": -78.483878
       },
       "geometry": {
         "type": "Point",
@@ -1474,15 +1404,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Gorras de lana y artesanía",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754249154556.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.180486,
-        "Long": -78.483642,
-        "ID": 71
+        "ID": 71,
+        "GIRO_NEGOC": "Gorras de lana y artesanía",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.180486,
+        "LONGITUD": -78.483642
       },
       "geometry": {
         "type": "Point",
@@ -1495,15 +1424,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Gorras y bufandas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754249300034.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.180586,
-        "Long": -78.483688,
-        "ID": 72
+        "ID": 72,
+        "GIRO_NEGOC": "Gorras y bufandas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.180586,
+        "LONGITUD": -78.483688
       },
       "geometry": {
         "type": "Point",
@@ -1516,15 +1444,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Alimentos preparados y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754249460589.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.180761,
-        "Long": -78.483706,
-        "ID": 73
+        "ID": 73,
+        "GIRO_NEGOC": "Alimentos preparados y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.\nNo contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.180761,
+        "LONGITUD": -78.483706
       },
       "geometry": {
         "type": "Point",
@@ -1537,15 +1464,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog, hamburguesas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754249790588.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.181266,
-        "Long": -78.483826,
-        "ID": 74
+        "ID": 74,
+        "GIRO_NEGOC": "Hot dog, hamburguesas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.181266,
+        "LONGITUD": -78.483826
       },
       "geometry": {
         "type": "Point",
@@ -1558,15 +1484,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutas, jugos y helados",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754250116384.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.18146,
-        "Long": -78.483877,
-        "ID": 75
+        "ID": 75,
+        "GIRO_NEGOC": "Frutas, jugos y helados",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.18146,
+        "LONGITUD": -78.483877
       },
       "geometry": {
         "type": "Point",
@@ -1579,15 +1504,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Alquiler de carritos a pedal",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento de metraje aprobado en el permiso.",
-        "Foto": "1754250188768.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.181569,
-        "Long": -78.483924,
-        "ID": 76
+        "ID": 76,
+        "GIRO_NEGOC": "Alquiler de carritos a pedal",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento de metraje aprobado en el permiso.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.181569,
+        "LONGITUD": -78.483924
       },
       "geometry": {
         "type": "Point",
@@ -1600,15 +1524,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Granizados, frutas y encebollados",
-        "Permiso": "SI",
-        "Observacio": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754250679632.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.184271,
-        "Long": -78.485251,
-        "ID": 77
+        "ID": 77,
+        "GIRO_NEGOC": "Granizados, frutas y encebollados",
+        "PERMISO": "SI",
+        "OBS": "No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.184271,
+        "LONGITUD": -78.485251
       },
       "geometry": {
         "type": "Point",
@@ -1621,15 +1544,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Hot dog, hamburguesas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": "No presencia del titular del permiso en el puesto. Usar menores de 15 años para trabajar en el puesto. Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754251032638.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.184794,
-        "Long": -78.484571,
-        "ID": 78
+        "ID": 78,
+        "GIRO_NEGOC": "Hot dog, hamburguesas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": "No presencia del titular del permiso en el puesto. Usar menores de 15 años para trabajar en el puesto. Incumplimiento de metraje aprobado en el permiso. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.184794,
+        "LONGITUD": -78.484571
       },
       "geometry": {
         "type": "Point",
@@ -1642,15 +1564,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Tiro al blanco",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754251283597.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.184805,
-        "Long": -78.484559,
-        "ID": 79
+        "ID": 79,
+        "GIRO_NEGOC": "Tiro al blanco",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.184805,
+        "LONGITUD": -78.484559
       },
       "geometry": {
         "type": "Point",
@@ -1663,15 +1584,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Juguetes, variedades, tablero y canicas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754251442262.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.184869,
-        "Long": -78.484545,
-        "ID": 80
+        "ID": 80,
+        "GIRO_NEGOC": "Juguetes, variedades, tablero y canicas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.184869,
+        "LONGITUD": -78.484545
       },
       "geometry": {
         "type": "Point",
@@ -1684,15 +1604,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Choclos con fritada y gaseosa",
-        "Permiso": "SI",
-        "Observacio": "No portar el permiso durante el horario de labores. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
-        "Foto": "1754251548719.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento grave",
-        "Lat": -0.184964,
-        "Long": -78.484562,
-        "ID": 81
+        "ID": 81,
+        "GIRO_NEGOC": "Choclos con fritada y gaseosa",
+        "PERMISO": "SI",
+        "OBS": "No portar el permiso durante el horario de labores. No contar con el extintor, para aquellos puestos que manejan fuego y/o tanques de gas.",
+        "FALTA": "Incumplimiento grave",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.184964,
+        "LONGITUD": -78.484562
       },
       "geometry": {
         "type": "Point",
@@ -1705,15 +1624,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Fritadas y gaseosas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754251837631.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185156,
-        "Long": -78.484591,
-        "ID": 82
+        "ID": 82,
+        "GIRO_NEGOC": "Fritadas y gaseosas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185156,
+        "LONGITUD": -78.484591
       },
       "geometry": {
         "type": "Point",
@@ -1726,15 +1644,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Obleas",
-        "Permiso": "SI",
-        "Observacio": "Incumplimiento con los horarios o días permitidos para laborar.",
-        "Foto": "1754251973078.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": "Incumplimiento leve",
-        "Lat": -0.185192,
-        "Long": -78.48461,
-        "ID": 83
+        "ID": 83,
+        "GIRO_NEGOC": "Obleas",
+        "PERMISO": "SI",
+        "OBS": "Incumplimiento con los horarios o días permitidos para laborar.",
+        "FALTA": "Incumplimiento leve",
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185192,
+        "LONGITUD": -78.48461
       },
       "geometry": {
         "type": "Point",
@@ -1747,15 +1664,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Frutillas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754252021072.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185203,
-        "Long": -78.484608,
-        "ID": 84
+        "ID": 84,
+        "GIRO_NEGOC": "Frutillas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185203,
+        "LONGITUD": -78.484608
       },
       "geometry": {
         "type": "Point",
@@ -1768,15 +1684,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Papitas con cuero y librillo",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754252082218.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.18524,
-        "Long": -78.484621,
-        "ID": 85
+        "ID": 85,
+        "GIRO_NEGOC": "Papitas con cuero y librillo",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.18524,
+        "LONGITUD": -78.484621
       },
       "geometry": {
         "type": "Point",
@@ -1789,15 +1704,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Jugos y frutas",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754252198197.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185283,
-        "Long": -78.484644,
-        "ID": 86
+        "ID": 86,
+        "GIRO_NEGOC": "Jugos y frutas",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185283,
+        "LONGITUD": -78.484644
       },
       "geometry": {
         "type": "Point",
@@ -1810,15 +1724,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Tipo_negoc": "Gaseosas, jugos naturales y confites",
-        "Permiso": "SI",
-        "Observacio": null,
-        "Foto": "1754252308031.jpg",
-        "Fecha": "2025-08-03",
-        "INCUMPLIMI": null,
-        "Lat": -0.185293,
-        "Long": -78.484652,
-        "ID": 87
+        "ID": 87,
+        "GIRO_NEGOC": "Gaseosas, jugos naturales y confites",
+        "PERMISO": "SI",
+        "OBS": null,
+        "FALTA": null,
+        "FECHA_LEV": "2025-08-03",
+        "LATITUD": -0.185293,
+        "LONGITUD": -78.484652
       },
       "geometry": {
         "type": "Point",
